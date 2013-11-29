@@ -1,7 +1,7 @@
 var Canvas = function(id, width, height){
 	this.canvas_id = id;
 	this.canvas_obj = null;
-	this_canvas_context = null;
+	this.canvas_context = null;
 	this.canvas_width = width;
 	this.canvas_height = height;
 };
