@@ -7,4 +7,4 @@ Silly JavaScript which loads a file with matrix of numbers in it and shows use i
 
 to this:
 
-![Map](https://github.com/RassaLibre/MapLoader/blob/master/pics/map.png)
+![Map](https://raw.githubusercontent.com/RassaLibre/MapLoader/master/pics/map.png)
